@@ -100,3 +100,4 @@ X-True-IP
 X-UIDH
 X-Wap-Profile
 X-XSRF-TOKEN
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
